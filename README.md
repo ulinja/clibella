@@ -29,4 +29,4 @@ I've only tested it on linux using `python 3.10.4`, but it should work both Wind
 
 # Documentation
 
-A more detailed overview of all available methods and what they do can be found [right here](doc/clibella/clibella.html).
+A more detailed overview of all available methods and what they do can be found [right here](https://htmlpreview.github.io/?https://github.com/ulinja/clibella/blob/main/doc/clibella/clibella.html).
